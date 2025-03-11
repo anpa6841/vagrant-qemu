@@ -1,0 +1,7 @@
+perk/ubuntu-20.04-arm64
+generic/ubuntu2004
+generic/debian10
+generic/fedora33
+generic/centos8
+archlinux/archlinux
+generic/alpine38
